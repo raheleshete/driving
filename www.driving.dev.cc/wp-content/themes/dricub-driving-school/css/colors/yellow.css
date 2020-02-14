@@ -1,0 +1,497 @@
+a:active,
+a:hover {
+  color: #dec83e;
+}
+::selection {
+  background: #dec83e;
+}
+::-moz-selection {
+  background: #dec83e;
+}
+.color {
+  color: #dec83e;
+}
+.btn-border:hover {
+  border-color: #dec83e;
+  color: #dec83e;
+}
+.list-icon li a:hover {
+  color: #dec83e;
+}
+/*---------------------------------------*/
+/*------------- list-disc ---------------*/
+/*---------------------------------------*/
+ul.list-disc li a:hover {
+  color: #dec83e;
+}
+@keyframes loaderBlock {
+  0%,
+  30% {
+    transform: rotate(0);
+  }
+  55% {
+    background-color: #dec83e;
+  }
+  100% {
+    transform: rotate(90deg);
+  }
+}
+@keyframes loaderBlockInverse {
+  0%,
+  20% {
+    transform: rotate(0);
+  }
+  55% {
+    background-color: #dec83e;
+  }
+  100% {
+    transform: rotate(-90deg);
+  }
+}
+.loader span {
+  background-color: #dec83e;
+}
+.radio:hover {
+  color: #dec83e;
+}
+/*---------------------------------------*/
+/*------------ form-default -------------*/
+/*---------------------------------------*/
+.wpcf7-form .wpcf7-form-control-wrap .wpcf7-form-control:focus,
+.form-default .form-control:focus {
+  border-color: #dec83e;
+}
+
+.form-default-02 .form-control:focus {
+  border-color: #dec83e;
+}
+#tt-header .tt-header-top .tt-box-phone a:hover,
+#tt-header .tt-header-top .tt-box-email a:hover,
+#tt-header .tt-header-top .tt-box-time a:hover,
+#tt-header .tt-header-top .tt-box-location a:hover {
+  color: #dec83e;
+}
+@media (max-width: 1219px) {
+  #tt-header .tt-header-wrapper-top .tt-header-top .tt-box-phone a:hover,
+  #tt-header .tt-header-wrapper-top .tt-header-top .tt-box-email a:hover,
+  #tt-header .tt-header-wrapper-top .tt-header-top .tt-box-time a:hover,
+  #tt-header .tt-header-wrapper-top .tt-header-top .tt-box-location a:hover {
+    color: #dec83e;
+  }
+}
+#tt-header .tt-header-top-toggle .btn-toggle:hover {
+  color: #dec83e;
+}
+@media (min-width: 701px) {
+  #tt-header .tt-menu > ul > li.current-menu-item a {
+    color: #dec83e;
+  }
+  #tt-header .tt-menu > ul > li.is-hover > a,
+  #tt-header .tt-menu > ul > li.active > a {
+    color: #dec83e;
+  }
+  #tt-header .tt-menu > ul > li.is-hover > a {
+    color: #dec83e;
+  }
+  #tt-header .tt-menu > ul > li.is-hover > ul a a:hover {
+    color: #dec83e;
+  }
+  #tt-header .tt-menu > ul .sub-menu li a:hover {
+    background: #dec83e;
+  }
+  #tt-header .tt-menu > ul .sub-menu li.active a {
+    background: #dec83e;
+  }
+}
+@media (max-width: 700px) {
+  #tt-header .tt-menu ul li.is-hover > a,
+  #tt-header .tt-menu ul li.active > a {
+    color: #dec83e;
+  }
+}
+#tt-header .tt-toggle-menu.active {
+  color: #dec83e;
+}
+#tt-header .tt-social-icon a:hover {
+  color: #dec83e;
+}
+@media (max-width: 1219px) {
+  #tt-header .tt-social-icon a:hover {
+    color: #dec83e;
+  }
+}
+#tt-footer:after {
+  background: #dec83e;
+}
+#tt-footer .title-aside {
+  color: #dec83e;
+}
+#tt-footer ul.menu li a:hover {
+  color: #dec83e;
+}
+#tt-footer .tt-social-icon a:before {
+  background: #dec83e;
+}
+#tt-footer .tt-social-icon li:hover i {
+  color: #dec83e;
+}
+#tt-footer .tt-baner-01 address span.tel i {
+  color: #dec83e;
+}
+.breadcrumbs .breadcrumb span[typeof="v:Breadcrumb"] a:hover {
+  color: #dec83e;
+}
+.calendar_wrap table tr td:hover {
+  color: #dec83e;
+}
+.calendar_wrap table tr td.today,
+.calendar_wrap table tr td.today:hover,
+.calendar_wrap table tr td.today.disabled,
+.calendar_wrap table tr td.today.disabled:hover {
+  background-color: #fde19a;
+  border-color: #fdf59a #fdf59a #fbed50;
+}
+.calendar_wrap table tr td.today:hover,
+.calendar_wrap table tr td.today:hover:hover,
+.calendar_wrap table tr td.today.disabled:hover,
+.calendar_wrap table tr td.today.disabled:hover:hover,
+.calendar_wrap table tr td.today:active,
+.calendar_wrap table tr td.today:hover:active,
+.calendar_wrap table tr td.today.disabled:active,
+.calendar_wrap table tr td.today.disabled:hover:active,
+.calendar_wrap table tr td.today.active,
+.calendar_wrap table tr td.today:hover.active,
+.calendar_wrap table tr td.today.disabled.active,
+.calendar_wrap table tr td.today.disabled:hover.active,
+.calendar_wrap table tr td.today.disabled,
+.calendar_wrap table tr td.today:hover.disabled,
+.calendar_wrap table tr td.today.disabled.disabled,
+.calendar_wrap table tr td.today.disabled:hover.disabled,
+.calendar_wrap table tr td.today[disabled],
+.calendar_wrap table tr td.today:hover[disabled],
+.calendar_wrap table tr td.today.disabled[disabled],
+.calendar_wrap table tr td.today.disabled:hover[disabled] {
+  background-color: #fdf59a;
+}
+.calendar_wrap table tr td.today:active,
+.calendar_wrap table tr td.today:hover:active,
+.calendar_wrap table tr td.today.disabled:active,
+.calendar_wrap table tr td.today.disabled:hover:active,
+.calendar_wrap table tr td.today.active,
+.calendar_wrap table tr td.today:hover.active,
+.calendar_wrap table tr td.today.disabled.active,
+.calendar_wrap table tr td.today.disabled:hover.active {
+  background-color: #fbf069 \9;
+}
+.calendar_wrap table tr td.active,
+.calendar_wrap table tr td.active:hover,
+.calendar_wrap table tr td.active.disabled,
+.calendar_wrap table tr td.active.disabled:hover {
+  background-color: #dec83e;
+  color: #fff;
+}
+.calendar_wrap table tr td.active:hover,
+.calendar_wrap table tr td.active:hover:hover,
+.calendar_wrap table tr td.active.disabled:hover,
+.calendar_wrap table tr td.active.disabled:hover:hover,
+.calendar_wrap table tr td.active:active,
+.calendar_wrap table tr td.active:hover:active,
+.calendar_wrap table tr td.active.disabled:active,
+.calendar_wrap table tr td.active.disabled:hover:active,
+.calendar_wrap table tr td.active.active,
+.calendar_wrap table tr td.active:hover.active,
+.calendar_wrap table tr td.active.disabled.active,
+.calendar_wrap table tr td.active.disabled:hover.active,
+.calendar_wrap table tr td.active.disabled,
+.calendar_wrap table tr td.active:hover.disabled,
+.calendar_wrap table tr td.active.disabled.disabled,
+.calendar_wrap table tr td.active.disabled:hover.disabled,
+.calendar_wrap table tr td.active[disabled],
+.calendar_wrap table tr td.active:hover[disabled],
+.calendar_wrap table tr td.active.disabled[disabled],
+.calendar_wrap table tr td.active.disabled:hover[disabled] {
+  background-color: #dec83e;
+}
+.calendar_wrap table tr td span:hover {
+  color: #dec83e;
+}
+.calendar_wrap table tr td span.active,
+.calendar_wrap table tr td span.active:hover,
+.calendar_wrap table tr td span.active.disabled,
+.calendar_wrap table tr td span.active.disabled:hover {
+  background-color: #dec83e;
+}
+.calendar_wrap table tr td span.active:hover,
+.calendar_wrap table tr td span.active:hover:hover,
+.calendar_wrap table tr td span.active.disabled:hover,
+.calendar_wrap table tr td span.active.disabled:hover:hover,
+.calendar_wrap table tr td span.active:active,
+.calendar_wrap table tr td span.active:hover:active,
+.calendar_wrap table tr td span.active.disabled:active,
+.calendar_wrap table tr td span.active.disabled:hover:active,
+.calendar_wrap table tr td span.active.active,
+.calendar_wrap table tr td span.active:hover.active,
+.calendar_wrap table tr td span.active.disabled.active,
+.calendar_wrap table tr td span.active.disabled:hover.active,
+.calendar_wrap table tr td span.active.disabled,
+.calendar_wrap table tr td span.active:hover.disabled,
+.calendar_wrap table tr td span.active.disabled.disabled,
+.calendar_wrap table tr td span.active.disabled:hover.disabled,
+.calendar_wrap table tr td span.active[disabled],
+.calendar_wrap table tr td span.active:hover[disabled],
+.calendar_wrap table tr td span.active.disabled[disabled],
+.calendar_wrap table tr td span.active.disabled:hover[disabled] {
+  background-color: #dec83e;
+}
+.calendar_wrap thead tr:first-child th:hover,
+.calendar_wrap tfoot tr:first-child th:hover {
+  color: #dec83e;
+}
+.calendar_wrap thead th.next:hover i,
+.calendar_wrap thead th.prev:hover i {
+  color: #dec83e;
+}
+.back-to-top:hover {
+  background-color: #dec83e;
+}
+@-webkit-keyframes ripple {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 rgba(222, 200, 62, 0.3), 0 0 0 10px rgba(222, 200, 62, 0.3);
+    box-shadow: 0 0 0 0 rgba(222, 200, 62, 0.3), 0 0 0 10px rgba(222, 200, 62, 0.3);
+  }
+  100% {
+    -webkit-box-shadow: 0 0 0 10px rgba(222, 200, 62, 0), 0 0 0 20px rgba(222, 200, 62, 0);
+    box-shadow: 0 0 0 10px rgba(222, 200, 62, 0), 0 0 0 20px rgba(222, 200, 62, 0);
+  }
+}
+@keyframes ripple {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 rgba(222, 200, 62, 0.3), 0 0 0 10px rgba(222, 200, 62, 0.3);
+    box-shadow: 0 0 0 0 rgba(222, 200, 62, 0.3), 0 0 0 10px rgba(222, 200, 62, 0.3);
+  }
+  100% {
+    -webkit-box-shadow: 0 0 0 10px rgba(222, 200, 62, 0), 0 0 0 20px rgba(222, 200, 62, 0);
+    box-shadow: 0 0 0 10px rgba(222, 200, 62, 0), 0 0 0 20px rgba(222, 200, 62, 0);
+  }
+}
+.tt-promo-03 .tt-title span {
+  color: #dec83e;
+}
+/*---------------------------------------*/
+/*--- tt-promo-01 (Banner with timer) ---*/
+/*---------------------------------------*/
+.tt-promo-01 .col-info .description strong {
+  color: #dec83e;
+}
+.tt-promo-01 .col-info [class^="icon-"] {
+  color: #dec83e;
+}
+.tt-promo-01 .col-timer:before {
+  background: #dec83e;
+}
+.tt-box-layout-icon .col-item .icon {
+  color: #dec83e;
+}
+.tt-box-subjects1:hover .description .h6 {
+  color: #dec83e;
+}
+.tt-promo-table.active {
+  border: 2px solid #dec83e;
+}
+.tt-promo-table:hover .btn {
+  background: #dec83e;
+}
+.tt-promo-table.active h6 {
+  background: #dec83e;
+}
+.tt-promo-table.active:before {
+  border-color: #dec83e;
+}
+.tt-box-news .description h6 a:hover {
+  color: #dec83e;
+}
+.tt-box-news .description .info .comments:hover {
+  color: #dec83e;
+}
+.tt-box-news .description .info .link-transition {
+  color: #dec83e;
+}
+.testimonials-box-02 .rating {
+  color: #ffc219;
+}
+.tt-accordion-box .item .tt-title:hover, .vc_toggle_title h4:hover{
+  color: #dec83e;
+}
+.pagination .nav-links .page-numbers:hover,
+.pagination li:hover a {
+  color: #dec83e;
+  border: 1px solid #dec83e;
+}
+.pagination .nav-links .page-numbers.current,
+.pagination li.active a {
+  border: 1px solid #dec83e;
+  background: #dec83e;
+}
+.list-addess .item .icon {
+    color: #dec83e;
+}
+.tt-total-info-row .tt-row .tt-total-info .tt-icon {
+  color: #dec83e;
+}
+@media only screen and (max-width: 1025px) {
+  .tt-tabs .tt-tabs__body > div:hover > span {
+    color: #dec83e;
+  }
+  .tt-tabs .tt-tabs__body > div.active > span {
+    background: #dec83e;
+  }
+}
+@media only screen and (min-width: 1025px) {
+  .tt-tabs .tt-tabs__head > ul > li:hover span {
+    color: #dec83e;
+  }
+  .tt-tabs .tt-tabs__head > ul > li.active > span {
+    background: #dec83e;
+  }
+  .tt-tabs .tt-tabs__head > ul > li.active > span:before {
+    background: #dec83e;
+  }
+}
+.tt-block-aside ul li > a:hover {
+  color: #dec83e;
+}
+.tagcloud li a:hover,.tt-post.single .post-categories li a:hover {
+  border-color: #dec83e;
+  color: #dec83e;
+}
+.tagcloud li.active a, .tt-post.single .post-categories li.active a{
+  border-color: #dec83e;
+  background: #dec83e;
+}
+.category-list li:hover a {
+  color: #dec83e;
+}
+.widget_tag_cloud .tagcloud a:hover {
+  border-color: #dec83e;
+  color: #dec83e;
+}
+.tags-list li.active a {
+  border-color: #dec83e;
+  background: #dec83e;
+}
+.tt-post-preview .item .post-title a:hover {
+  color: #dec83e;
+}
+.tt-post .post-image .post-img-link:hover {
+  color: #dec83e;
+}
+.tt-post .post-image .post-img-link:hover i {
+  background-color: #dec83e;
+}
+.tt-post .post-title a:hover {
+  color: #dec83e;
+}
+.tt-post .post-content blockquote:before {
+  background: #dec83e;
+}
+.tt-post .post-content blockquote:after {
+  color: #dec83e;
+}
+.tt-post .post-read-more .post-link {
+  color: #dec83e;
+}
+.slick-arrow-01 .slick-prev:hover:before,
+.slick-arrow-01 .slick-next:hover:before {
+  color: #dec83e;
+}
+.slick-arrow-01 .slick-dots li:hover button,
+.slick-arrow-01 .slick-dots li.slick-active button {
+  background: #dec83e;
+}
+.slick-arrow-01.white-dots.slick-arrow-01 .slick-dots li.slick-active button {
+  background: #dec83e;
+}
+.slick-arrow-02 .slick-prev:hover:before,
+.slick-arrow-02 .slick-next:hover:before {
+  color: #dec83e;
+}
+.slick-arrow-02 .slick-dots li:hover button,
+.slick-arrow-02 .slick-dots li.slick-active button {
+  background: #dec83e;
+}
+.slick-arrow-02.white-dots.slick-arrow-01 .slick-dots li.slick-active button {
+  background: #dec83e;
+}
+.slick-arrow-03 .slick-prev:hover:before,
+.slick-arrow-03 .slick-next:hover:before {
+  color: #dec83e;
+}
+.slick-arrow-03 .slick-dots li:hover button,
+.slick-arrow-03 .slick-dots li.slick-active button {
+  background: #dec83e;
+}
+.slick-arrow-03.white-dots.slick-arrow-01 .slick-dots li.slick-active button {
+  background: #dec83e;
+}
+.modal .modal-header .close:hover {
+  color: #dec83e;
+}
+.modal .modal-content {
+  border-top: 6px solid #dec83e;
+}
+
+
+.testimonials-box {
+  border: 1px solid #dec83e;
+}
+.testimonials-box .rating {
+  color: #dec83e;
+}
+.testimonials-box-indent .tt-icon .tt-bg {
+  background: #dec83e;
+}
+.testimonials-box:hover .author {
+  color: #dec83e;
+}
+.tt-box-subjects .img + .tt-nomber .tt-fon {
+  background: #dec83e;
+}
+.tt-box-subjects:hover .btn {
+  background: #dec83e;
+}
+.btn:hover:not(.no-hover) {
+  background: #dec83e;
+}
+.mainSlider .slick-arrow:hover {
+  color: #dec83e;
+}
+.tt-promo-01 {
+  background: #dec83e;
+}
+.box-parallax-counter .item-counter .description .value {
+  color: #dec83e;
+}
+.btn.inverse {
+  background: #dec83e;
+}
+.social-services .title-icon {
+  color: #dec83e;
+}
+.tt-accordion-box .item.active .tt-title, .vc_toggle_active h4 {
+  color: #dec83e !important;
+}
+.testimonials-box-02 .tt-icon .tt-bg {
+  background: #dec83e;
+}
+.testimonials-box-02 {
+  border: 1px solid #dec83e;
+}
+.testimonials-box-02 .rating {
+  color: #dec83e;
+}
+html input[type="button"]:hover:not(.no-hover), input[type="reset"]:hover:not(.no-hover), input[type="submit"]:hover:not(.no-hover) {
+  background: #dec83e;
+}
+#tt-header .tt-header-top-toggle .btn-extra {
+  background: #dec83e;
+}
