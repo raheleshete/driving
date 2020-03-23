@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'drivingDB7ftw9');
+define( 'DB_NAME', 'drivingDBqe5qy');
 
 /** MySQL database username */
-define( 'DB_USER', 'drivingDB7ftw9');
+define( 'DB_USER', 'drivingDBqe5qy');
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'jYN5E0mYhP');
+define( 'DB_PASSWORD', 'bjaPESH5sD');
 
 /** MySQL hostname */
 define( 'DB_HOST', '127.0.0.1');
@@ -46,14 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY', '*aHP*ip6D#;aiLT*<t+HP2AmuXe]2+.PXAHu+em2A.{XfIP$iqy*iq6E<;biLT*<q');
-define( 'SECURE_AUTH_KEY', 'W]t-GO5hpSa#;x~KS5Dpxah;5~#SaDO+_lt9H]2emPW.]tDL;6iqTa<;x*LT6Dqxa');
-define( 'LOGGED_IN_KEY', 'Z:-!NV8Gs-dk18![VdGO-_ls9G[1dlOV_[sCG:5hpSZ#:w~KW9Gt-dl19_]WeHO+_');
-define( 'NONCE_KEY', 'A<XfIPAI{3fnQX,{u$MU7Erybj7^>UcFMy^jr7F>cjMU^>rzFN07jrUc>0z^N4B');
-define( 'AUTH_SALT', '9]aiLS*#pxDL;6iqTa<;x*LT6Dqxai;6*<TbELy*iq6.{XfIP$.muAI{2fmPX.u*');
-define( 'SECURE_AUTH_SALT', '8Jzck08![ZgJR@|owCK:4goRZ|:w@KR4CowZh:5~|RZCKw~ho9C[VdGO-_ls9G[1d');
-define( 'LOGGED_IN_SALT', 'J@go4C|}cFNz!ks8G[0ckNV![szGN08ksVd[4@|RZCKw~ho5C|:ZhKR~|s9G[1dlO');
-define( 'NONCE_SALT', '6<TbEMy^jq7E<fnQX,{u$IQ3BnuYf{3$,QYBIv$fn3B>UcFMz^jr7F>0cjNU,}v@');
+define( 'AUTH_KEY', 'G3TE$ub2<xPEPiXiWqmD2*WPzUF0ncn^z,7EXrfqIO|wkC1@VK4sgs|z>C0>cvkW');
+define( 'SECURE_AUTH_KEY', 'BMf$qb7{$XibP<xq<z0|4RF0ogN>zr>3>FUrjU,5Sh~wh91!ZKC-kd-[G4|g;<eP');
+define( 'LOGGED_IN_KEY', 'nXuh@g}!ZF4scR>@oF4!YR7vnxPDOhal~t_5]5SGSGdo|-|C1*u{6{IXqiu<*]E2D');
+define( 'NONCE_KEY', 'm6e@kY0,rJ4F3NcjB>yQFQBUhWO|sh8:-RCwdR[@k8}4|ZJ+mA#xLWHP6pWeP_pxD');
+define( 'AUTH_SALT', '.+P9H2mSaL~]+_tD1c^rY,{yM7B{frbjQ,uyj7.{$<bMPAqbG:gRZkV[w@oC[0!V');
+define( 'SECURE_AUTH_SALT', '4>zN8B}gRYkU>z+l9]~O9GSxhpW[-_pC[1_VhSZG-loZ:~fP.*<uI26<bHPAt*qx');
+define( 'LOGGED_IN_SALT', '#*#xL6cN!rvg4^>zMYJQ7rcfQ,vyj7I37{fMUEufK1lVdoZ[-!sG:4|VGN8sgY0|}');
+define( 'NONCE_SALT', '1ZKRCwhkV[-+]2D;iPaL*mte;*_tH2DL5lWaK~ptdpD:y$,uM3A{7qbfQ.qyi3.*');
 
 /**#@-*/
 

@@ -1,0 +1,209 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">title</custom-field>
+        <custom-field action="translate">description</custom-field>
+        <custom-field action="translate">keywords</custom-field>
+    </custom-fields>  
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>                
+        <key name="icl_language_switcher_sidebar">0</key>        
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>                
+    </language-switcher-settings>
+   <admin-texts>
+        <key name="dricub_driving_school_options">
+            <key name="dricub_driving_school_page_header_mobile_location" />
+            <key name="dricub_driving_school_page_header_mobile_location_url" />
+            <key name="dricub_driving_school_page_header_mobile_phone" />
+            <key name="dricub_driving_school_page_header_mobile_hour" />
+            <key name="dricub_driving_school_page_header_mobile_email" />
+            <key name="dricub_driving_school_header_order_button_text" />
+            <key name="dricub_driving_school_footer_copyright" />
+            <key name="dricub_driving_school-slug_postype_program" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+    <shortcodes>
+        <shortcode>
+            <tag>driving_school_total_carusel_item</tag>;
+            <attributes>
+                <attribute>name<attribute>
+                <attribute>icon<attribute>
+                <attribute>number<attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>driving_school_ready</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>content</attribute>
+                <attribute>button_text</attribute>
+                <attribute>modal_title</attribute>
+                <attribute encoding="av_link" type="link">button_action</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>promo_banner</tag>
+            <attributes>
+                <attribute>call</attribute>
+                <attribute>pre_title</attribute>
+                <attribute>title</attribute>
+                <attribute>post_title</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>driving_school_icon_box_items</tag>
+            <attributes>
+                <attribute>heading</attribute>
+                <attribute>content</attribute>
+                <attribute>call_action</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>driving_school_testimonials_items</tag>
+            <attributes>
+                <attribute>rev_name</attribute>
+                <attribute>content</attribute>
+                <attribute>call_action</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>driving_school_price_item</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>sub_title</attribute>
+                <attribute>planning_type_title</attribute>
+                <attribute>content</attribute>
+                <attribute>price</attribute>
+                <attribute>sub_price</attribute>
+                <attribute>btn_title</attribute>
+                <attribute>modal_title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>car_running_banner</tag>
+            <attributes>
+                <attribute>content</attribute>
+                <attribute>btn_title</attribute>
+                <attribute>call_action</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>driving_school_news_slider_item</tag>
+            <attributes>
+                <attribute>date</attribute>
+                <attribute>month</attribute>
+                <attribute>comments</attribute>
+                <attribute>title</attribute>
+                <attribute>content</attribute>
+                <attribute encoding="av_link" type="link">link_url</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>timer_banner</tag>
+            <attributes>
+                <attribute>date</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>driving_school_counter_item</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>count_number</attribute>
+                <attribute>number_prefix</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>driving_school_team</tag>
+            <attributes>
+                <attribute>name</attribute>
+                <attribute>designation</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>promo4banner</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>box_parallax</tag>
+            <attributes>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>driving_school_smart_tabs_item</tag>
+            <attributes>
+                <attribute>tab_title</attribute>
+                <attribute>tab_title_small</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>twitter_posts</tag>
+            <attributes>
+                <attribute>author</attribute>
+                <attribute>limit</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>instagram_feed</tag>
+            <attributes>
+                <attribute>userid</attribute>
+                <attribute>clientid</attribute>
+                <attribute>limit</attribute>
+                <attribute>accesstoken</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>facebook_posts</tag>
+            <attributes>
+                <attribute>fb_page_link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>driving_school_promo5banner</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>button_title</attribute>
+                <attribute>modal_title</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>
+</wpml-config>

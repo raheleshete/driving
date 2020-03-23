@@ -1,0 +1,95 @@
+
+---Downloaded files---
+The import files for: Driving School were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://www.driving.dev.cc
+Data file = C:\Users\hikma\Desktop\driving\www.driving.dev.cc\wp-content\plugins\dricub-driving-school-demo-installer/demo-data/demo1/contents.xml
+Widget file = C:\Users\hikma\Desktop\driving\www.driving.dev.cc\wp-content\plugins\dricub-driving-school-demo-installer/demo-data/demo1/widgets.wie
+Customizer file = C:\Users\hikma\Desktop\driving\www.driving.dev.cc\wp-content\plugins\dricub-driving-school-demo-installer/demo-data/demo1/customize.dat
+Redux files:
+dricub_driving_school_options -> C:\Users\hikma\Desktop\driving\www.driving.dev.cc\wp-content\plugins\dricub-driving-school-demo-installer/demo-data/demo1/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Calendar - Archive - Imported
+Categories - Post Categories - Imported
+Tag Cloud - No Title - Imported
+Driving School Posts Grid - Featured Posts - Imported
+
+Program Sidebar : 
+
+Text - No Title - Imported
+Driving School Program Contact Box - Program Contact - Imported
+
+Contact Us : 
+
+Driving School Contact Box - Our Office - Imported
+
+Footer Sidebar 1 : 
+
+Image - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer Column 2 : 
+
+Navigation Menu - Information - Imported
+
+Footer Column 3 : 
+
+Navigation Menu - Cutomer Service - Imported
+
+Footer Column 4 : 
+
+Driving School Footer Column 4 - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: dricub_driving_school_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
